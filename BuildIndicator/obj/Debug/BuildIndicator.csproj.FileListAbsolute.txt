@@ -1,0 +1,5 @@
+c:\users\steven\documents\visual studio 2012\Projects\BuildIndicator\BuildIndicator\bin\BuildIndicator.dll
+c:\users\steven\documents\visual studio 2012\Projects\BuildIndicator\BuildIndicator\bin\BuildIndicator.pdb
+c:\users\steven\documents\visual studio 2012\Projects\BuildIndicator\BuildIndicator\obj\Debug\BuildIndicator.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2012\Projects\BuildIndicator\BuildIndicator\obj\Debug\BuildIndicator.dll
+c:\users\steven\documents\visual studio 2012\Projects\BuildIndicator\BuildIndicator\obj\Debug\BuildIndicator.pdb
