@@ -4,6 +4,6 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="starter-template">
         <h2>Ama-zing Dev Build</h2>
-        <image src="https://ci.appveyor.com/api/projects/status/bfus04me54kcxie9?retina=true"></image>
+        <image src="https://ci.appveyor.com/api/projects/status/nfnu2whqj5cywro4?retina=true"></image>
     </div>
 </asp:Content>
